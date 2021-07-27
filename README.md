@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im a developer, currently im working in a lot of things, buy my main focus in [[Doric]](https://github.com/hablapps/doric) a Spark dataframe API improvement to focus in the types of the columns.
+Im a developer, currently im working in a lot of things, buy my main focus in [Doric](https://github.com/hablapps/doric) a Spark dataframe API improvement to focus in the types of the columns.
 
 <!--
 **alfonsorr/alfonsorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
